@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.list-custom {
+  width: 250px;
+}
+
+.card {
+  width: 350px;
+  margin-left: 25px;
+}
+.spinner-wrapper {
+  width: 350px;
+  text-align: center;
+  margin-left: 25px;
+}
+.wrapper {
+  display: flex;
+  justify-content: left;
+}
